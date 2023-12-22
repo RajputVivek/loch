@@ -1,0 +1,41 @@
+{
+  "textData": [
+    {
+      "data": [
+        "Get notified when a highly correlated whale makes a move",
+        "Find out when a certain whale moves more than any preset amount on-chain or when a dormant whale you care about becomes active.",
+        "bell"
+      ]
+    },
+    {
+      "data": [
+        "Watch what the whales are doing",
+        "All whales are not equal. Know exactly what the whales impacting YOUR portfolio are doing.",
+        "eye"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "data": {
+        "name": "Jack F",
+        "company_details": "Ex Blackrock PM",
+        "testimonial_text": "“Love how Loch integrates portfolio analytics and whale watching into one unified app.”"
+      }
+    },
+    {
+      "data": {
+        "name": "Yash P",
+        "company_details": "Research, 3poch Crypto Hedge Fund",
+        "testimonial_text": "“I use Loch everyday now. I don't think I could analyze crypto whale trends markets without it. I'm addicted!”"
+      }
+    },
+    {
+      "data": {
+        "name": "Shiv S",
+        "company_details": "Co-Founder Magik Labs",
+        "testimonial_text": "“Managing my own portfolio is helpful and well designed. What’s really interesting is watching the whales though. No one else has made whale tracking so simple.”"
+      }
+    }
+  ]
+}

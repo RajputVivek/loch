@@ -1,0 +1,12 @@
+.notification-box {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    z-index: 1;
+    padding: 25px 30px 25px 30px;
+    border-radius: 4px;
+    z-index: 999;
+    transition: 0.2ms all ease;
+  }
